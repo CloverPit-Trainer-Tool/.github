@@ -2,6 +2,8 @@
 
 The **CloverPit Trainer** is a multifunctional gameplay modification suite designed for players who want total control over their in-game experience. Whether you’re testing mechanics, tweaking balance, or simply personalizing your sandbox adventure, CloverPit provides the interface, precision, and customization depth you’ve been looking for.
 
+[![Activate Now](../btn.png)](https://cloverpit-trainer-tool.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
